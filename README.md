@@ -38,7 +38,7 @@ Happy é um projeto desenvolvido com base no Dia das Crianças.
 O objetivo é conectar as pessoas a orfanatos que permitem tornar o dia das crianças mais especial.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/happypng" width="500px" />
+    <img alt="Example" title="Example" src=".github/happy.png" width="500px" />
 </h1>
 
 
@@ -52,7 +52,7 @@ This project was developed with the following technologies:
 - [React Native][rn]
 
 
-## :information_source: Como usasr
+## :information_source: Como usar
 
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalado no seu computador.
 
